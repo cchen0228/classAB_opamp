@@ -1,4 +1,5 @@
 This documents is a user guide.
+The code will be uploaded after the paper is accepted.
 
 Installation Requirements:
   numpy >= 1.15.1
@@ -13,4 +14,3 @@ Document description:
   main.py is main function.
 
 
-The code will be uploaded after the paper is accepted.
