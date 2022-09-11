@@ -7,9 +7,9 @@ Installation Requirements:
 Document description:
   \LUT is lookup table function and data
   spec.py is the analytical equation of circuit.
-  fine_tune.py is about fine tuning operation.
-  wrirte_variables.py is a script generation to import variables to Cadence ADEL.
   optimezer.py is about SLSQP.
+  fine_tune.py is about fine tuning operation.
+  wrirte_variables.py is a script generator to import the design variables to Cadence ADEL.
   main.py is main function.
 
 
