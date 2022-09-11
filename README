@@ -1,15 +1,16 @@
 This documents is a user guide.
 
-Installation Requirements
-numpy >= 1.15.1
-scipy >= 1.1.0
+Installation Requirements:
+  numpy >= 1.15.1
+  scipy >= 1.1.0
 
-\LUT is lookup table function and data
-spec.py is the analytical equation of circuit.
-fine_tune.py is about fine tuning operation.
-wrirte_variables.py is a script generation to import variables to Cadence ADEL.
-optimezer.py is about SLSQP.
-main.py is main function.
+Document description:
+  \LUT is lookup table function and data
+  spec.py is the analytical equation of circuit.
+  fine_tune.py is about fine tuning operation.
+  wrirte_variables.py is a script generation to import variables to Cadence ADEL.
+  optimezer.py is about SLSQP.
+  main.py is main function.
 
 
 The code will be uploaded after the paper is accepted.
